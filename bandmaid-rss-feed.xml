@@ -6,9 +6,9 @@
     <description>Latest updates from Band-Maid.</description>
     <item>
       <title>First Post</title>
-      <link>https://683e48a8d1ea7e7d9dfe6c5c--band-maid.netlify.app/feed.xml</link>
+      <link>https://683e48a8d1ea7e7d9dfe6c5c--band-maid.netlify.app/bandmaid-rss-feed.xml</link>
       <description>This is the first post in the Band-Maid feed.</description>
-      <pubDate>Mon, 02 Jun 2025 21:20:41 GMT</pubDate>
+      <pubDate>Mon, 02 Jun 2025 21:24:29 GMT</pubDate>
       <guid>1</guid>
     </item>
   </channel>
